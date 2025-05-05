@@ -1115,15 +1115,15 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="TRICK_MODE">MODO TRICK</string>
     <string name="ICE_SPLIT">ICE SPLIT</string>
     <string name="TRICK_SPLIT">TRICK SPLIT</string>
-    <string name="POP_SPLIT">POP SPLIT</string>
-    <string name="PUSH_SPLIT">PUSH SPLIT</string>
+    <string name="POP_SPLIT">DIVISÃO POP</string>
+    <string name="PUSH_SPLIT">EMPURRAR DIVISÃO</string>
     <string name="Level_Colors">Cores do Nível</string>
     <string name="click_info">O Autoclick/Ultraclick não funciona no FFA Clássico!</string>
     <string name="Hooked">Enganchado</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Seja puxado por um poder de gancho por 10 segundos</string>
     <string name="Pack">Pacote</string>
-    <string name="Skin_Pack">Pacote de Skin</string>
-    <string name="SKIN_PACK">PACOTE DE SKIN</string>
+    <string name="Skin_Pack">Pacote de Pele</string>
+    <string name="SKIN_PACK">PACOTE DE PELE</string>
     <string name="HALLOWEEN">DIA DAS BRUXAS</string>
     <string name="pack_info">Depois que você comprar este pacote de skin, suas skins exclusivas aparecerão na parte superior dos menus de seleção de skin.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">Skins, Masc, Bonés EXCLUSIVOS e Mais!</string>
@@ -1182,7 +1182,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Position_in_queue">Posição na fila</string>
     <string name="PROFILE_MENU_BACKGROUND_COLOR">COR DE FUNDO DO MENU DE PERFIL</string>
     <string name="DARK_MATTER">MATÉRIA ESCURA</string>
-    <string name="Textures_will_be_regenerated_">Texturas pretas e skins personalizadas serão regeneradas.</string>
+    <string name="Textures_will_be_regenerated_">Texturas pretas e peles personalizadas serão regeneradas.</string>
     <string name="Enable_Profile_Colors">Ativar Cores do Perfil</string>
     <string name="mother_cell" translatable="true" tools:ignore="Untranslatable">CÉLULA MÃE</string>
     <string name="shrink" translatable="true" tools:ignore="Untranslatable">ENCOLHENDO</string>
@@ -1217,8 +1217,8 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Refund__Multiskin">"Reembolsar a\nMulti-Skin"</string>
     <string name="Invalid_Clan_ID_">ID do Clã Inválido.</string>
     <string name="MUTED">SILENCIADO</string>
-    <string name="SKIN">SKIN</string>
-    <string name="Choose_Skin_Size">Escolha o tamanho da Skin</string>
+    <string name="SKIN">PELES</string>
+    <string name="Choose_Skin_Size">Escolha o tamanho da Pele</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Os outros jogadores não poderão te ouvir!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Conceder a permissão para ativar a gravação de voz.</string>
     <string name="voice_chat_prompt">A classificação do conteúdo do aplicativo pode mudar com o chat por voz ativado. Para um áudio melhor, use um fone de ouvido.</string>
@@ -1322,7 +1322,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="Custom_Skin_Reviewed_Notification">A Sua Skin Personalizada Foi Revisada!</string>
     <string name="You_Have_Mail_">Você Tem Uma Mensagem De %s!</string>
     <string name="Clan_Request_Reviewed_Notification">A Sua Solicitação Para Entrar No Clã %s Foi Revisada!</string>
-    <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
+    <string name="CRAZY_SPLIT">DIVISÃO LOUCA 32x</string>
     <string name="Sold_Community_Skins_">"Skins da Comunidade Vendidas: "</string>
     <string name="Estimated_Earnings_">"Ganhos Estimados: "</string>
     <string name="South_Africa">África do Sul</string>
@@ -1332,7 +1332,7 @@ Esta é uma lista de coisas que são *PROIBIDAS* para usar nas skins personaliza
     <string name="FIND_GAMES">ENCONTRAR JOGOS</string>
     <string name="PLAY_SOLO">JOGAR SOZINHO</string>
     <string name="SET_EMOTE">DEFINIR EMOTE</string>
-    <string name="Winner_Winner_Chicken_Dinner">Winner Winner Chicken Dinner!</string>
+    <string name="Winner_Winner_Chicken_Dinner">Jantar de Frango Vencedor!</string>
     <string name="Win_a_Battle_Royale_">Ganhe um jogo de Batalha Real.</string>
     <string name="Battle_">Batalha!</string>
     <string name="BATTLE_ROYALE">BATALHA REAL</string>
@@ -1358,13 +1358,13 @@ Comandos:
 </string>
     <string name="ID_Sort">Classificação ID</string>
     <string name="Master_Tamer">Domador Magistral</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Leve TODOS os mascotes ao nível 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Coloque TODOS os mascotes no nível 100</string>
     <string name="TAMER">DOMADOR</string>
     <string name="Allow_Recombine">Permitir Recombinar</string>
     <string name="Defenders">Defensores</string>
     <string name="Attackers">Atacantes</string>
-    <string name="MEGA_SPLIT">MEGA SPLIT 64x</string>
-    <string name="Missing_Permissions">Permissões ausentes</string>
+    <string name="MEGA_SPLIT">MEGA DIVISÃO 64x</string>
+    <string name="Missing_Permissions">Permissões insulficientes</string>
     <string name="DELETE_ACCOUNT">EXCLUIR CONTA</string>
     <string name="delete_prompt">Você tem certeza que quer excluir sua conta? Esta ação é PERMANENTE e NÃO PODERÁ SER DESFEITA!</string>
 
@@ -1402,10 +1402,10 @@ Faça login para acessar o modo multijogador. Você poderá:
 - Jogar e se comunicar com outros jogadores de todo o mundo
 - Compartilhar seu progresso com outros
 - Criar e decorar um perfil
-- Comprar plasma na loja
+- Comprar plasmas na loja
 - Enviar skins criadas pelos usuários
 
-Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
+Se você não deseja fazer login, ainda poderá jogar no modo único jogador."
     </string>
     <string name="_2x_skin_resolution">Qualidade da Skin em Dobro</string>
     <string name="pm">PRIV.</string>
